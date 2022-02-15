@@ -43,3 +43,5 @@ Then launch server
 `npm run serve`
 
 Open `localhost:3000` in your browser.
+
+You can check the [demo here](https://mvu.herokuapp.com/)

@@ -16,7 +16,7 @@ app.use(express.json())
 app.use('/auth', AuthRouter)
 app.use('/video', VRouter)
 
-app.listen(process.env.PORT || 5000, '0.0.0.0', () => {
+app.listen(process.env.PORT || port, '0.0.0.0', () => {
     console.log('Listening on port', port)
 
     const dbConnect = new AppDB()
