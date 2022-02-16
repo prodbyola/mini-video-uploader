@@ -1,6 +1,6 @@
 ### MINI VIDEO UPLOADER
 
-A mini video uploading app created as an assessment project for [AppClick Technology](https://www.appclicktech.com).
+A mini video uploading app created with VueJS.
 
 ## Features
 * User Authentication
