@@ -1,6 +1,6 @@
 ### MINI VIDEO UPLOADER
 
-A mini video uploading app created with VueJS.
+A mini video uploading app created with VueJS. See the **screenshots** folder for screenshots.
 
 ## Features
 * User Authentication
